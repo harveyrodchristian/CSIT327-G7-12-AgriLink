@@ -113,6 +113,7 @@ To create a superuser account for accessing the Django admin panel, use Render's
 - Run `python manage.py collectstatic` manually if needed
 
 
+
 ## Team Members
 
 | Name                              | Role               | CIT-U Email                            |
