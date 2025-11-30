@@ -111,7 +111,8 @@ To create a superuser account for accessing the Django admin panel, use Render's
 **Static Files Not Loading**
 - WhiteNoise should handle static files automatically
 - Run `python manage.py collectstatic` manually if needed
-- 
+
+
 
 ## Team Members
 
