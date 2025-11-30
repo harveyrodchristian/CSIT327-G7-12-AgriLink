@@ -1,5 +1,6 @@
 # AgriLink
 
+
 AgriLink is a web-based platform designed to connect farmers directly with buyers, fostering a fair, transparent, and sustainable local food ecosystem.
 
 ## Tech Stack
